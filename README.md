@@ -5,5 +5,4 @@
 
   You can reach me on:
 - linkedIn: https://www.linkedin.com/in/dominik-pietrzyca-ab7410190/ 
-- e-mail: https://poczta.agh.edu.pl/rcm-1.4/?_task=mail&_mbox=INBOX
-
+- e-mail: dpietrzy@student.agh.edu.pl
